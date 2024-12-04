@@ -50,6 +50,7 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 <li>STEP 10:Plot the error for each iteration <BR>
 <li>STEP 11:Print the accuracy<BR>
 </ul>
+
 ## PROGRAM:
 ### Import Necessary Packages
 
